@@ -27,7 +27,7 @@ import com.example.android.marsrealestate.databinding.FragmentOverviewBinding
 /**
  * This fragment shows the the status of the Mars real-estate web services transaction.
  */
-class OverviewFragment : Fragment() {
+class  OverviewFragment : Fragment() {
 
     /**
      * Lazily initialize our [OverviewViewModel].
